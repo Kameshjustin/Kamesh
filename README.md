@@ -1,8 +1,7 @@
 ## Hi  👋 I'm Kamesh
 
 A passionate React.js developer with expertise in front-end technologies like HTML,CSS, and javascript. Always eager to learn and take on new challenges in the tech world.<br>
-<img align="center" width="370" height="280" src="![developer_image](https://github.com/user-attachments/assets/8d133389-72ca-4f93-9f42-0ac6ffa15e22)
-"> <br>
+<img align="center" width="370" height="280" src="https://github.com/user-attachments/assets/17400704-8164-40cb-b96b-9984038814e1"> <br>
 
 - 🌱 I’m currently learning: Redux
 - 💬 Ask me about: React
